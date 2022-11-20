@@ -3,7 +3,7 @@ REM Be sure to run postgres-functions.sql first, as the concepts rely on those f
 REM Note that this may take a large amount of time and hard drive space.
 
 REM ** YOU MUST SET THE PASSWORD BELOW **
-SET "CONNSTR=postgresql://postgres:123456Mao@localhost:5432/mimic"
+SET "CONNSTR=postgresql://postgres:123456Mao@localhost:5432/mimiciii"
 REM ** YOU MUST SET YOUR PSQL PATH BELOW **
 SET "PSQL_PATH=C:\Program Files\PostgreSQL\15\bin\psql.exe"
 
